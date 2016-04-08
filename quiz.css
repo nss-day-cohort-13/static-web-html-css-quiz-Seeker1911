@@ -5,6 +5,16 @@
 	border: 1px solid lightblue;
 }
 
+.card * {
+	margin: 0 0 5px;
+}
+
+.available {
+	background-color: #333333;
+	color: yellow;
+	padding: 5px;
+}
+
 h1 {
 	border: 1px dotted lightgrey;
 	text-align: center;
@@ -12,8 +22,13 @@ h1 {
 
 .description {
 	text-align: justify;
+	padding: 0 5px;
 }
 
-img {
+.picture {
 	text-align: center;
+}
+
+.bold * {
+	font-weight: bold;
 }
