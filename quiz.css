@@ -1,0 +1,19 @@
+.card {
+	margin: 0;
+	padding: 0;
+	width: 30%;
+	border: 1px solid lightblue;
+}
+
+h1 {
+	border: 1px dotted lightgrey;
+	text-align: center;
+}
+
+.description {
+	text-align: justify;
+}
+
+img {
+	text-align: center;
+}
